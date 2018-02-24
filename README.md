@@ -6,7 +6,7 @@
   <h3 align="center">AppBootstrapper</h3>
 
   <p align="center">
-    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+    Modern, Simple and Efficient Front-end Framework for Rapid Native Android App Development
   </p>
 </p>
 
@@ -18,7 +18,6 @@
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
